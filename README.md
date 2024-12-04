@@ -18,7 +18,7 @@ Aug 2016 - June 2020
 ## Work Experience
 **Capgemini (March 2021 - Aug 2024)**
 
-**Software Test Engineer**
+**Associate Consultant**
 
 Skills: (Functional Testing, Regression Testing, Manual Testing, Test Case Design, Defect Logging, Rally, HP-ALM, Java, Selenium) 
 - Contributed to the design of test scenarios and test cases, creating a comprehensive collection of over 700+ test cases.
